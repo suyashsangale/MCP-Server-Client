@@ -1,0 +1,7 @@
+2025-06-20 17:05:54,096 INFO Starting MCP server...
+2025-06-20 17:05:54,158 INFO StreamableHTTP session manager started
+2025-06-20 17:07:17,074 INFO Created new transport with session ID: 1db76b6f78ad4e22ada67863def62b2b
+2025-06-20 17:07:17,616 INFO Processing request of type CallToolRequest
+2025-06-20 17:07:17,617 INFO Executing code: abs(-42)
+2025-06-20 17:07:17,617 INFO Execution result: 42
+2025-06-20 17:07:17,879 INFO Terminating session: 1db76b6f78ad4e22ada67863def62b2b

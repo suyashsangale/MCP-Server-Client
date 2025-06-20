@@ -1,0 +1,6 @@
+streamlit
+httpx
+langchain
+langchain-openai
+python-dotenv
+markdown
