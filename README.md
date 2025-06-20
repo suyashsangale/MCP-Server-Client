@@ -1,5 +1,7 @@
 # MCP Platform Monorepo
 
+## A modern, extensible platform for building and deploying AI-powered tools with a beautiful Streamlit interface and FastMCP backend.
+
 This repository contains two independent projects for building AI-powered tool platforms:
 
 - **classic_api/**: FastAPI backend with a classic Streamlit client.
@@ -9,7 +11,6 @@ See each subproject's README for details and setup instructions.
 
 # 🤖 MCP (Multi-Component Platform)
 
-A modern, extensible platform for building and deploying AI-powered tools with a beautiful Streamlit interface and FastMCP backend.
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.68.0+-00a393.svg)](https://fastapi.tiangolo.com)
