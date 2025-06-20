@@ -1,6 +1,6 @@
 # MCP Platform Monorepo
 
-## A modern, extensible platform for building and deploying AI-powered tools with a beautiful Streamlit interface and FastMCP backend.
+## A modern, extensible platform for building and deploying AI-powered tools with a Streamlit interface and FastMCP backend.
 
 This repository contains two independent projects for building AI-powered tool platforms:
 
